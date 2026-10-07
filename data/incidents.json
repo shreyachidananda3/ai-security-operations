@@ -1,0 +1,42 @@
+[
+  {
+    "id": "INC001",
+    "description": "Multiple failed login attempts were detected against an administrator account from an unknown external IP address.",
+    "source": "Authentication Logs"
+  },
+  {
+    "id": "INC002",
+    "description": "An employee received a suspicious email containing a link to an unknown website requesting corporate credentials.",
+    "source": "Email Security"
+  },
+  {
+    "id": "INC003",
+    "description": "Endpoint security detected malicious software attempting to execute unauthorized processes on a company workstation.",
+    "source": "Endpoint Security"
+  },
+  {
+    "id": "INC004",
+    "description": "A user attempted to access a restricted administrative resource without the required permissions.",
+    "source": "Access Logs"
+  },
+  {
+    "id": "INC005",
+    "description": "A sensitive company document was accessed by an account that normally does not require access to the file.",
+    "source": "File Access Logs"
+  },
+  {
+    "id": "INC006",
+    "description": "Repeated authentication failures were observed for a privileged account within a short period of time.",
+    "source": "Authentication Logs"
+  },
+  {
+    "id": "INC007",
+    "description": "A suspicious message attempted to trick an employee into clicking a malicious link and providing login information.",
+    "source": "Email Security"
+  },
+  {
+    "id": "INC008",
+    "description": "A workstation showed signs of malware activity including an unauthorized executable and unusual system processes.",
+    "source": "Endpoint Security"
+  }
+]

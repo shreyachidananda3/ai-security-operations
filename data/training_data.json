@@ -1,0 +1,135 @@
+[
+  {
+    "text": "Multiple failed login attempts against an administrator account",
+    "label": "brute_force"
+  },
+  {
+    "text": "Repeated authentication failures from an external IP address",
+    "label": "brute_force"
+  },
+  {
+    "text": "Many unsuccessful password attempts for a privileged user",
+    "label": "brute_force"
+  },
+  {
+    "text": "Repeated login failures detected on an admin account",
+    "label": "brute_force"
+  },
+  {
+    "text": "Attacker repeatedly attempted different passwords",
+    "label": "brute_force"
+  },
+  {
+    "text": "High number of failed authentication attempts from one IP",
+    "label": "brute_force"
+  },
+  {
+    "text": "Suspicious email containing a malicious link requesting credentials",
+    "label": "phishing"
+  },
+  {
+    "text": "Employee received a fake login email asking for account information",
+    "label": "phishing"
+  },
+  {
+    "text": "Fraudulent message attempts to steal corporate username and password",
+    "label": "phishing"
+  },
+  {
+    "text": "Email impersonating a company employee requested sensitive information",
+    "label": "phishing"
+  },
+  {
+    "text": "User received a suspicious message with a credential harvesting link",
+    "label": "phishing"
+  },
+  {
+    "text": "Malicious email attempted to trick an employee into revealing credentials",
+    "label": "phishing"
+  },
+  {
+    "text": "Malicious software detected running on a company workstation",
+    "label": "malware"
+  },
+  {
+    "text": "Unauthorized executable and suspicious processes detected on endpoint",
+    "label": "malware"
+  },
+  {
+    "text": "Endpoint security detected a malware infection",
+    "label": "malware"
+  },
+  {
+    "text": "Suspicious program attempted to execute on a workstation",
+    "label": "malware"
+  },
+  {
+    "text": "Malicious process was detected by endpoint security software",
+    "label": "malware"
+  },
+  {
+    "text": "Workstation showed signs of malicious software activity",
+    "label": "malware"
+  },
+  {
+    "text": "User attempted to access a restricted administrative resource",
+    "label": "unauthorized_access"
+  },
+  {
+    "text": "Account attempted to access a system without required permissions",
+    "label": "unauthorized_access"
+  },
+  {
+    "text": "Unauthorized user tried to access a protected resource",
+    "label": "unauthorized_access"
+  },
+  {
+    "text": "User attempted to access an administrator-only system",
+    "label": "unauthorized_access"
+  },
+  {
+    "text": "Account accessed a restricted resource without authorization",
+    "label": "unauthorized_access"
+  },
+  {
+    "text": "Unauthorized access attempt was detected in system logs",
+    "label": "unauthorized_access"
+  },
+  {
+    "text": "Sensitive company document was accessed by an unauthorized account",
+    "label": "data_exposure"
+  },
+  {
+    "text": "Confidential file was accessed by a user without a business need",
+    "label": "data_exposure"
+  },
+  {
+    "text": "Sensitive information was exposed through unauthorized file access",
+    "label": "data_exposure"
+  },
+  {
+    "text": "Private company records were accessed by an unauthorized user",
+    "label": "data_exposure"
+  },
+  {
+    "text": "Confidential information was accessed without proper authorization",
+    "label": "data_exposure"
+  },
+  {
+    "text": "Sensitive files were exposed through improper access permissions",
+    "label": "data_exposure"
+  }
+,
+{
+  "text": "Hundreds of password guesses were attempted against an administrator account",
+  "label": "brute_force"
+},
+{
+  "text": "Repeated incorrect passwords were submitted during a short time period",
+  "label": "brute_force"
+},
+{
+  "text": "An attacker repeatedly tried different passwords to break into an account",
+  "label": "brute_force"
+}
+]
